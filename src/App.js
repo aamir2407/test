@@ -39,6 +39,7 @@ const App = () => {
   return (
     <div className="text-center">
       <h1>MY first netlify deployment</h1>
+      <h1>ready to pull from git</h1>
       <input
         type="text"
         value={inputText}
